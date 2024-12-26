@@ -4,7 +4,7 @@
 ## Overview
 This a beginner level project from [FrontendMentor](https://www.frontendmentor.io/). It was a basic and simple project to do.
 
-## I used 
+## Built With
 
 * HTML - For Structure
 * CSS - For Styling
